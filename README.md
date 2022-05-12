@@ -8,6 +8,7 @@ Im a web programmer <img src="https://e7.pngegg.com/pngimages/973/940/png-clipar
 <code><img src="https://i.ya-webdesign.com/images/bootstrap-svg-4.png" width="30px"></code>
 <code><img src="https://i.ya-webdesign.com/images/svg-js-node-16.png" width="30px"></code>
 <code><img src="https://i.ya-webdesign.com/images/php-image-png-5.png" width="30px"></code>
+<code><img src="https://img2.freepng.ru/20180611/hfj/kisspng-microsoft-sql-server-microsoft-azure-sql-database-plsql-5b1ef236c546c5.6107973015287547428081.jpg" width="30px"></code>
 
 ### Technologies 
 
