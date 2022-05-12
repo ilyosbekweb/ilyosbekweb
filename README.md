@@ -9,6 +9,7 @@ Im a web programmer <img src="https://e7.pngegg.com/pngimages/973/940/png-clipar
 <code><img src="https://i.ya-webdesign.com/images/svg-js-node-16.png" width="30px"></code>
 <code><img src="https://i.ya-webdesign.com/images/php-image-png-5.png" width="30px"></code>
 <code><img src="https://e7.pngegg.com/pngimages/687/946/png-clipart-sql-query-language-computer-icons-scalable-graphics-column-text-logo.png" width="30px"></code>
+<code><img src="https://www.shareicon.net/data/2016/07/13/606543_black_2048x2048.png" width="30px"></code>
 
 ### Technologies 
 
