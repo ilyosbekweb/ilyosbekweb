@@ -6,6 +6,7 @@ Im a web programmer <img src="https://e7.pngegg.com/pngimages/973/940/png-clipar
 <code><img src="https://e7.pngegg.com/pngimages/567/553/png-clipart-social-media-computer-icons-html-social-media-angle-text.png" width="30px"></code>
 <code><img src="https://www.seekpng.com/png/detail/377-3771966_png-file-sass-png.png" width="30px"></code>
 <code><img src="https://i.ya-webdesign.com/images/bootstrap-svg-4.png" width="30px"></code>
+<code><img src="https://i.ya-webdesign.com/images/svg-js-node-16.png"></code>
 
 ### Technologies 
 
