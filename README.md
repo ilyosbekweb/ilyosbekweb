@@ -1,5 +1,5 @@
 ### Hi there Im Ilyosbek Norboyev  <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47gmk8n881m8msqwyxze9tzhmvg3ey7zds2lhz2ud9&rid=giphy.gif&ct=s" width="30px"> 
-Im a web programmer <img src="https://e7.pngegg.com/pngimages/973/940/png-clipart-laptop-computer-icons-user-programmer-laptop-electronics-computer.png" width="30px">
+Im a web programmer <code><img src="https://p7.hiclipart.com/preview/973/940/957/laptop-computer-icons-user-programmer-laptop.jpg" width="30px"></code>
 ### Im a languages and tools I work with 
 
 <code><img src="https://www.freeiconspng.com/uploads/html5-icon-3.png" width="30px"></code>
