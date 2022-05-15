@@ -1,6 +1,6 @@
-### Hi there Im Ilyosbek Norboyev  <img src="https://img2.freepng.ru/20180427/aye/kisspng-computer-icons-5ae35f97cafa55.2803436415248505838314.jpg" width="30px"> 
-Im a web programmer <code><img src="https://p7.hiclipart.com/preview/973/940/957/laptop-computer-icons-user-programmer-laptop.jpg" width="40px"></code>
-### Im a languages and tools I work with 
+### Hi there, I'm Ilyosbek Norboyev  <img src="https://img2.freepng.ru/20180427/aye/kisspng-computer-icons-5ae35f97cafa55.2803436415248505838314.jpg" width="30px"> 
+I'm a web programmer <code><img src="https://p7.hiclipart.com/preview/973/940/957/laptop-computer-icons-user-programmer-laptop.jpg" width="40px"></code>
+### I work with languages and tools
 
 <code><img src="https://www.freeiconspng.com/uploads/html5-icon-3.png" width="30px"></code>
 <code><img src="https://e7.pngegg.com/pngimages/567/553/png-clipart-social-media-computer-icons-html-social-media-angle-text.png" width="30px"></code>
