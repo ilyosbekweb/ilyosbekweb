@@ -15,5 +15,3 @@ I'm a web programmer <code><img src="https://p7.hiclipart.com/preview/973/940/95
 
 <code><img src="https://www.pngitem.com/pimgs/m/141-1419071_github-hd-png-download.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Font_Awesome_5_brands_gitlab.svg/1024px-Font_Awesome_5_brands_gitlab.svg.png" width="30px"></code>
-
-### <code>Contact Me <code> code><img src="https://www.pngitem.com/pimgs/m/141-1419071_github-hd-png-download.png" width="30px"></code>
