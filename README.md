@@ -1,19 +1,112 @@
-### Hi there, I'm Ilyosbek Norboyev  <img src="https://img2.freepng.ru/20180427/aye/kisspng-computer-icons-5ae35f97cafa55.2803436415248505838314.jpg" width="30px"> 
-### I'm a web programmer <code><img src="https://p7.hiclipart.com/preview/973/940/957/laptop-computer-icons-user-programmer-laptop.jpg" width="40px"></code>
-### I work with languages and tools
 
-<code><img src="https://www.freeiconspng.com/uploads/html5-icon-3.png" width="30px"></code>
-<code><img src="https://e7.pngegg.com/pngimages/567/553/png-clipart-social-media-computer-icons-html-social-media-angle-text.png" width="30px"></code>
-<code><img src="https://www.seekpng.com/png/detail/377-3771966_png-file-sass-png.png" width="30px"></code>
-<code><img src="https://i.ya-webdesign.com/images/bootstrap-svg-4.png" width="30px"></code>
-<code><img src="https://i.ya-webdesign.com/images/svg-js-node-16.png" width="30px"></code>
-<code><img src="https://i.ya-webdesign.com/images/php-image-png-5.png" width="30px"></code>
-<code><img src="https://e7.pngegg.com/pngimages/687/946/png-clipart-sql-query-language-computer-icons-scalable-graphics-column-text-logo.png" width="30px"></code>
-<code><img src="https://www.shareicon.net/data/2016/07/13/606543_black_2048x2048.png" width="30px"></code>
+<div align="center">
 
-### Technologies 
+# Hi, I'm Ilyosbek Norboyev 👋
 
-<code><img src="https://www.pngitem.com/pimgs/m/141-1419071_github-hd-png-download.png" width="30px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Font_Awesome_5_brands_gitlab.svg/1024px-Font_Awesome_5_brands_gitlab.svg.png" width="30px"></code>
+### Web Developer | Digital Strategist | SMM Specialist
 
-### my places of study 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Turning+Ideas+Into+Reality;Web+Development+%26+Digital+Marketing;Code+%7C+Creativity+%7C+Innovation" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ilyosbekweb&label=Profile+Views&color=007BFF&style=flat-square" alt="Profile Views" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Ilyosbek Norboyev**, a web developer and digital creative passionate about building modern websites, digital products, and impactful brand experiences.
+
+- 💻 Focused on **Web Development & UI/UX**
+- 🚀 Building **ADVERTICO**
+- 🎯 Interested in **Digital Marketing, SMM & Branding**
+- 🧠 Exploring **AI & Automation**
+- ⚡ Combining technology with creativity
+- 🌍 Based in Uzbekistan
+
+> "I don't just build websites. I build digital experiences."
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql,laravel" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,wordpress" />
+</p>
+
+### 🎨 Creative & Digital Skills
+
+![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-007BFF?style=for-the-badge)
+![SMM](https://img.shields.io/badge/SMM-111111?style=for-the-badge)
+![Branding](https://img.shields.io/badge/Branding-007BFF?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-111111?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI_Tools-007BFF?style=for-the-badge)
+
+---
+
+## 🚀 Featured Project
+
+### 🔷 ADVERTICO
+
+**Digital Advertising & Creative Solutions**
+
+A digital advertising project focused on combining innovative design, technology, and modern marketing solutions.
+
+**Focus Areas:**
+- 🌐 Web Development
+- 📺 LED & Outdoor Advertising
+- 🎯 Digital Marketing
+- 🎨 Creative Branding
+- ⚡ Interactive Web Experiences
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ilyosbekweb&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyosbekweb&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ilyosbekweb&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilyosbekweb)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code. Create. Innovate.
+
+**Building the future, one project at a time.**
+
+</div>
